@@ -96,7 +96,7 @@ Por fim, na Rede em "adptador1" mude a conexão em "Conectado a :" de "NAT" para
 
 
 
-## 2.  Instalando e Configurando o Oracle Linux 
+## 3.  Instalando e Configurando o Oracle Linux 
 
 Depois de a máquina estar configurada, iremos intalar e configurar o Oracle linux.
 Clique em "Iniciar", para iniciar a máquina virtual.
